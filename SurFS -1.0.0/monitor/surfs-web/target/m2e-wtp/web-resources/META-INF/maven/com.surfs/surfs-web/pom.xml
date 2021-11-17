@@ -44,7 +44,7 @@
 		<xfire-all.version>1.2.6</xfire-all.version>
 		
 		<!-- mina version -->
-		<mina-core.version>2.0.7</mina-core.version>
+		<mina-core.version>2.1.5</mina-core.version>
 		
 		<!-- derby version -->
 		<derby.version>10.9.1.0</derby.version>
